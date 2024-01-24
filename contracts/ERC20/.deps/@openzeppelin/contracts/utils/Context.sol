@@ -1,4 +1,3 @@
-const CONTENT = `
 // SPDX-License-Identifier: MIT
 // OpenZeppelin Contracts v4.4.1 (utils/Context.sol)
 
@@ -23,6 +22,3 @@ abstract contract Context {
         return msg.data;
     }
 }
-`;
-
-export default CONTENT;
